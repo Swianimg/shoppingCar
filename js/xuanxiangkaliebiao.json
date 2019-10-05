@@ -1,0 +1,46 @@
+[{
+    "title1": "时尚女装",
+    "title12": "连衣裙",
+    "title13": "外套",
+    "title14": "衬衫",
+    "imgs": "../images/衣服1.jpg"
+}, {
+    "title1": "品质男装",
+    "title12": "衬衫",
+    "title13": "T恤",
+    "title14": "裤装",
+    "imgs": "../images/衣服7.jpg"
+}, {
+    "title1": "运动户外",
+    "title12": "男运动服",
+    "title13": "女运动服",
+    "imgs": "../images/衣服6.jpg"
+}, {
+    "title1": "童装童鞋",
+    "title12": "男童装",
+    "title13": "女童装",
+    "title14": "鞋",
+    "imgs": "../images/衣服2.jpg"
+}, {
+    "title1": "内衣/袜子",
+    "title12": "文胸",
+    "title13": "内裤",
+    "title14": "睡衣",
+    "imgs": "../images/衣服3.jpg"
+}, {
+    "title1": "精品箱包",
+    "title12": "女包",
+    "title13": "男包",
+    "title14": "拉杠箱",
+    "imgs": "../images/衣服9.jpg"
+}, {
+    "title1": "品质鞋靴",
+    "title12": "女单鞋",
+    "title13": "男鞋",
+    "imgs": "../images/衣服8.jpg"
+}, {
+    "title1": "家居家纺",
+    "title12": "套件",
+    "title13": "被芯/被毯",
+    "imgs": "../images/衣服10.jpg"
+}]

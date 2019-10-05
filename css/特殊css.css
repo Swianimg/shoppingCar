@@ -1,0 +1,267 @@
+.w_fulls {
+    width: 100%;
+    height: 528px;
+}
+
+.foot-conts {
+    height: 525px;
+}
+
+.w_1200s {
+    width: 1200px;
+}
+
+.m_autos {
+    margin: auto;
+}
+
+.foot-longs {
+    width: 1200px;
+    height: 113px;
+    border-bottom: 1px solid #EDEDED;
+}
+
+.foot-longs li {
+    width: 240px;
+    height: 100%;
+    margin-top: 5px;
+    float: left;
+    display: inline-block;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.foot-long-icon1s {
+    width: 62px;
+    height: 62px;
+    margin-left: 17px;
+    margin-top: 12px;
+    float: left;
+}
+
+.btits {
+    width: 48px;
+    height: 40px;
+    float: right;
+    margin-right: 95px;
+    margin-top: 10px;
+    line-height: 40px;
+    text-align: center;
+    color: #C81417;
+}
+
+.stits {
+    height: 17.6px;
+    float: right;
+    margin-right: 74px;
+    margin-top: 5px;
+    line-height: 17.6px;
+    font-size: 10px;
+    color: black;
+    text-align: left;
+}
+
+.foot-help {
+    width: 1200px;
+    height: 201px;
+    border-bottom: 1px solid #EDEDED;
+}
+
+.foot-help-relations {
+    width: 180px;
+    box-sizing: border-box;
+    height: 145.6px;
+}
+
+.fls {
+    float: left;
+    display: inline-block;
+}
+
+.social-help-items {
+    width: 50px;
+    position: relative;
+    height: 65.5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.social-help-items span {
+    margin-left: 5px;
+}
+
+.fls {
+    float: left;
+    display: inline-block;
+}
+
+.social-weibos {
+    width: 42px;
+    height: 43px;
+    border-radius: 50%;
+    background: pink;
+}
+
+.frs {
+    float: right;
+
+}
+
+.social-wechats {
+    width: 42px;
+    height: 43px;
+}
+
+.social-help-tels {
+    width: 200px;
+    height: 80px;
+    margin-right: 25px;
+    position: relative;
+}
+
+.social-tel-icons {
+    width: 70px;
+    height: 26px;
+    position: absolute;
+    top: 15px;
+    left: 0;
+    color: #666;
+    font-size: 12px;
+}
+
+.social-tel-texts {
+    width: 130px;
+    position: absolute;
+    right: 0;
+    top: 13px;
+}
+
+.social-tel-texts li {
+    color: #666;
+    line-height: 20px;
+    height: 20px;
+    font-size: 12px;
+}
+
+.social-tel-dutys{
+    font-size: 12px;
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+    color: #666;
+    font-size: 12px;
+}
+
+.foot-splits {
+    height: 170px;
+    width: 1px;
+    overflow: hidden;
+    background: #EDEDED;
+    float: left;
+    display: inline-block;
+    margin-left: 55px;
+    box-sizing: border-box;
+}
+
+.dl-helps {
+    margin-left: 55px;
+    box-sizing: border-box;
+    float: left;
+    display: inline-block;
+}
+
+.dl-helps dd {
+    line-height: 25px;
+}
+
+.dl-helps dd a {
+    color: #666;
+    font-size: 12px;
+}
+
+.dl-helps dd a:hover {
+    color: red;
+}
+
+.foot-splits {
+    height: 170px;
+    width: 1px;
+    overflow: hidden;
+    background: #EDEDED;
+    float: left;
+    display: inline-block;
+    margin-left: 55px;
+    box-sizing: border-box;
+}
+
+.foot-help-appMas{
+    margin-left: 40px;
+    box-sizing: border-box;
+    margin-top: -23px;
+}
+
+.fls {
+    float: left;
+    display: inline-block;
+}
+
+.foot-help-appMas p {
+    color: #666;
+    line-height: 30px;
+    text-align: center;
+}
+
+.foot-helps {
+    margin-top: 30px;
+    height: 200px;
+    border-bottom: 1px solid #EDEDED;
+}
+
+.w_1200ss {
+    width: 1200px;
+    height: 159px;
+    margin: auto;
+}
+
+.hp-copys{
+    width: 540px;
+    margin: 0 auto;
+    margin-top: 25px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.hp-copys ul li {
+    float: left;
+    margin-left: 10px;
+    color: #666;
+}
+
+.hp-copys ul li a {
+    color: #666;
+    font-size: 12px;
+}
+
+#foots {
+    font-family: "微软雅黑";
+}
+
+.hp-copyrights {
+    width: 540px;
+    margin: 0 auto;
+    margin-top: 12px;
+    text-align: center;
+    overflow: hidden;
+    color: #666;
+    font-size: 12px;
+}
+
+.authentications {
+    width: 750px;
+    margin: auto;
+}
+
+.authentications ul li a {
+    float: left;
+}
